@@ -1,0 +1,95 @@
+{
+  "left_search_history": [
+    "쌩초보 코딩"
+  ],
+  "main_config": {
+    "history_tree_expanded": [
+      "바이브코딩",
+      "기본"
+    ],
+    "theme": "dark",
+    "url_list_col_widths": [
+      281,
+      0,
+      186,
+      0
+    ],
+    "history_tree_col_widths": [
+      150,
+      150,
+      150,
+      286
+    ],
+    "splitter_sizes": [
+      230,
+      630,
+      507
+    ]
+  },
+  "saved_urls": {
+    "https://search.daum.net/search?q=": {
+      "name": "search.daum.net",
+      "active": false,
+      "note": "",
+      "group": "검색"
+    },
+    "https://ja.dict.naver.com/#/search?query=": {
+      "name": "ja.dict.naver.com",
+      "active": true,
+      "note": "일본어사전",
+      "group": "사전"
+    },
+    "https://dic.daum.net/search.do?q=": {
+      "name": "dic.daum.net",
+      "active": true,
+      "note": "다음사전",
+      "group": "사전"
+    }
+  },
+  "recommend_tags": [
+    "아이돌",
+    "드라마",
+    "언어"
+  ],
+  "search_history": [
+    {
+      "query": "파이썬",
+      "note": "아무것도 몰라도 시도해 볼 수 있는 언어",
+      "tags": [
+        "언어"
+      ],
+      "group": "바이브코딩"
+    },
+    {
+      "query": "아침",
+      "note": "",
+      "tags": [
+        "언어"
+      ],
+      "group": "기본"
+    }
+  ],
+  "search_groups": [
+    "기본",
+    "바이브코딩",
+    "일본어공부"
+  ],
+  "url_check_presets": {
+    "1": {
+      "urls": [
+        "https://ja.dict.naver.com/#/search?query=",
+        "https://dic.daum.net/search.do?q="
+      ],
+      "name": "사전"
+    },
+    "2": {
+      "name": "검색",
+      "urls": [
+        "https://search.daum.net/search?q="
+      ]
+    }
+  },
+  "url_groups": [
+    "기본"
+  ]
+}
